@@ -3,8 +3,8 @@
 </h1>
 
 ####
-![](https://komarev.com/ghpvc/?username=Planxnx&color=5f4b8b&style=flat)
-[![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
+![](https://komarev.com/ghpvc/?username=Planxnx&color=5f4b8b&style=flat-square)
+[![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
 
 Hi! I'm Planxnx . I'm a software developer part-time @[Cleverse](https://cleverse.com/)🧑🏻‍💻.
 
