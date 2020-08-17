@@ -21,10 +21,17 @@ Hi! I'm Planxnx . I'm a software developer part-time @[Cleverse](https://clevers
 
 ![](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js)
 ![](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=Vue.js)
+![](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb)
+![](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis)
 ![](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
+
+![](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat-square&logo=google-cloud)
+![](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase)
+![](https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku)
+
 ![](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
-
-
+![](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
+![](https://img.shields.io/badge/-Bitbucket-000000?style=flat-square&logo=bitbucket)
 
 
 
