@@ -11,10 +11,11 @@ Hi! I'm Planxnx . I'm a software developer part-time @[Cleverse](https://clevers
   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" />
 
 #### Talking about Personal Stuffs 🎯
-- 💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning about software design pattern and microservice architecture pattern
-
-#### Tech Stack 💻
+- 💻 I’m currently working on improving my techskill.
+- 🌱 I’m currently learning about software design pattern and microservice architecture pattern.
+- 🤔 I’m looking for help in learning about software development and software management.
+- ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
+#### Knowledges 💻
 ![](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
 ![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=typescript)
