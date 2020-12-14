@@ -16,8 +16,8 @@ Hi! I'm Planxnx . I'm a software engineer part-time @[Cleverse](https://cleverse
 - 🤔 I’m looking for help in learning about software development and software management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 #### Knowledges 💻
-![](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
+![](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=typescript)
 
 ![](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js)
