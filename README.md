@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Planxnx&color=5f4b8b&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
 
-Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑🏻‍💻.
+Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑🏻‍💻. and owner of [planxnx.dev](https://planxnx.dev/)
 
   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" />
 
