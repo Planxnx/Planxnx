@@ -21,7 +21,7 @@ Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑
 ![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=typescript)
 
 ![](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js)
-![](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=Vue.js)
+![](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
 ![](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb)
 ![](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis)
 ![](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
