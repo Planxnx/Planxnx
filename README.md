@@ -12,8 +12,8 @@ Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑
 
 #### Talking about Personal Stuffs 🎯
 - 💻 I’m currently working on improving my techskill.
-- 🌱 I’m currently learning about software design and microservice architecture.
-- 🤔 I’m looking for help in learning about software development and project management.
+- 🌱 I’m currently learning about system design and blockchain.
+- 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 #### Knowledges 💻
 ![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
