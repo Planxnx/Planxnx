@@ -60,7 +60,7 @@ jobs:
           plugin_wakatime_days: 14
           plugin_wakatime_limit: 5
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, os
+          plugin_wakatime_sections: time, languages, languages-graphs, os
           plugin_wakatime_url: https://wakatime.com
       - name: Interesting Facts Metrics
         uses: lowlighter/metrics@latest
