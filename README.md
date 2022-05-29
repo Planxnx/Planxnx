@@ -2,8 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
 
 <div>
-<img align="center" width=50% src="/metrics/main.svg" alt="Planxnx">
-<img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
+  <a href="https://planxnx.dev"><img align="center" width=50% src="/metrics/main.svg" alt="Planxnx"></a>
+  <a href="https://planxnx.dev"><img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
+</a>
 </div>
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
 
@@ -14,7 +15,7 @@
 - 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 
-<img align="right" src="/metrics/plugin.habits.facts.svg" alt="Planxnx">
+<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.habits.facts.svg" alt="Planxnx Habits"></a>
 
 
 #### Knowledges 💻
@@ -53,5 +54,5 @@ Other                        ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx">
-<img align="center" src="/metrics/plugin.achivements.svg" alt="Planxnx">
+<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
+<a href="https://planxnx.dev"><img align="center" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
