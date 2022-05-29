@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/metrics.wakatime.yml"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wakatime Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics/plugin.wakatime.svg
+          base: ""
+          config_timezone: Asia/Bangkok
+          plugin_wakatime: yes
+          plugin_wakatime_days: 14
+          plugin_wakatime_limit: 5
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages, languages-graphs, os
+          plugin_wakatime_url: https://wakatime.com
