@@ -1,23 +1,21 @@
-<h1 align="center">
-  💜Welcome to My Profile✨
-</h1>
-
-####
-
 ![](https://komarev.com/ghpvc/?username=Planxnx&color=5f4b8b&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
 
-Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑🏻‍💻. , owner of [planxnx.dev](https://planxnx.dev/) and full-time self developer✌🏻
-
+<div>
+<img align="center" src="/metrics/main.svg" alt="Planxnx">
+<img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
+</div>
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
-  <img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
 
 #### Talking about Personal Stuffs 🎯
-
+- 🧑🏻‍💻 I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/). , owner of [planxnx.dev](https://planxnx.dev/) and full-time self developer✌🏻
 - 💻 I’m currently working on improving my techskill.
 - 🌱 I’m currently learning about system design and blockchain.
 - 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
+
+<img align="right" src="/metrics/plugin.habits.facts.svg" alt="Planxnx">
+
 
 #### Knowledges 💻
 
@@ -55,8 +53,5 @@ Other                        ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!-- #### Recently I'm coding in...
-
-<a href="https://codestats.net/users/Planxnx">
-  <img align="right" src='https://codestats-readme.wegfan.cn/history-graph/Planxnx?width=900&height=350&timezone=07:00&history_days=27&max_languages=6&language_colors=["00ffff","f7df1e","5da5da","faa43a","60bd68","f17cb0","b2912f"]' alt="Planxnx's Code::Stats history graph" />
-</a> -->
+<img align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx">
+<img align="center" src="/metrics/plugin.achivements.svg" alt="Planxnx">
