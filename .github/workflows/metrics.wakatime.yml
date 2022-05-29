@@ -1,4 +1,4 @@
-name: Metrics
+name: Wakatime Metrics
 on:
   schedule:
     - cron: "0 * * * *" # every hour
@@ -10,8 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Wakatime Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: metrics/plugin.wakatime.svg

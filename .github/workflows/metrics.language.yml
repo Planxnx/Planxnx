@@ -1,4 +1,4 @@
-name: Metrics
+name: Most Used Languages Metrics
 on:
   schedule:
     - cron: "0 0 * * *" # every day
@@ -10,8 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Most Used Languages Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: metrics/plugin.languages.used.svg
