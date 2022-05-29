@@ -3,6 +3,7 @@
 </h1>
 
 ####
+
 ![](https://komarev.com/ghpvc/?username=Planxnx&color=5f4b8b&style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
 
@@ -11,13 +12,15 @@ Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
   <img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
 
-
 #### Talking about Personal Stuffs 🎯
+
 - 💻 I’m currently working on improving my techskill.
 - 🌱 I’m currently learning about system design and blockchain.
 - 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
+
 #### Knowledges 💻
+
 ![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
 ![](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=typescript)
@@ -36,6 +39,8 @@ Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑
 ![](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
 ![](https://img.shields.io/badge/-Bitbucket-000000?style=flat-square&logo=bitbucket)
 
+#### Recently I'm coding in...
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -50,7 +55,8 @@ Other                        ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Recently I'm coding in...
+<!-- #### Recently I'm coding in...
+
 <a href="https://codestats.net/users/Planxnx">
   <img align="right" src='https://codestats-readme.wegfan.cn/history-graph/Planxnx?width=900&height=350&timezone=07:00&history_days=27&max_languages=6&language_colors=["00ffff","f7df1e","5da5da","faa43a","60bd68","f17cb0","b2912f"]' alt="Planxnx's Code::Stats history graph" />
-</a>
+</a> -->
