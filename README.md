@@ -34,7 +34,8 @@ Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑
 ![](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
 ![](https://img.shields.io/badge/-Bitbucket-000000?style=flat-square&logo=bitbucket)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### Recently I'm coding in...
 <a href="https://codestats.net/users/Planxnx">
