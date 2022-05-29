@@ -54,5 +54,5 @@ Other                        ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
-<a href="https://planxnx.dev"><img align="left" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
+<a href="https://planxnx.dev"><img width=410px align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
+<a href="https://planxnx.dev"><img width=410px align="left" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
