@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
 
 <div>
-  <a href="https://planxnx.dev"><img align="center" width=50% src="/metrics/main.svg" alt="Planxnx"></a>
+  <a href="https://planxnx.dev"><img align="center" src="/metrics/main.svg" alt="Planxnx"></a>
   <a href="https://planxnx.dev"><img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
 </a>
 </div>
@@ -54,5 +54,5 @@ Other                        ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<a href="https://planxnx.dev"><img width=45% align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
-<a href="https://planxnx.dev"><img width=50% align="center" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
+<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
+<a href="https://planxnx.dev"><img align="left" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
