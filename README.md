@@ -8,7 +8,9 @@
 
 Hi! I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/)🧑🏻‍💻. , owner of [planxnx.dev](https://planxnx.dev/) and full-time self developer✌🏻
 
-  <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" />
+<!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
+  <img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
+
 
 #### Talking about Personal Stuffs 🎯
 - 💻 I’m currently working on improving my techskill.
