@@ -138,14 +138,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M99.377,5.497A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8752165177024873"/>
+                                        <path d="M99.425,5.492A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.8426300546085649"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,99.117,5.528L108,80Z" class="ct-slice-pie" ct:value="0.016351416891845078"/>
+                                        <path d="M108,5A75,75,0,0,0,99.165,5.522L108,80Z" class="ct-slice-pie" ct:value="0.015652981362339988"/>
                                     </g>
                                     <g>
-                                        <text dx="110.15944314958813" dy="117.4377724401933" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="105.84055685041191" dy="42.5622275598067" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="110.14738563306949" dy="117.43846598009708" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="105.85261436693052" dy="42.561534019902915" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
