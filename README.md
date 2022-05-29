@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Planxnx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/planxnx/)](https://www.linkedin.com/in/planxnx/)
 
 <div>
-<img align="center" src="/metrics/main.svg" alt="Planxnx">
+<img align="center" width=40% src="/metrics/main.svg" alt="Planxnx">
 <img align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
 </div>
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
