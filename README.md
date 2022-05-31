@@ -43,7 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 30 May 2022
+From: 01 May 2022 - To: 31 May 2022
 
 Go                                ██████████████████░░░░░░░   71.42 %
 YAML                              █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
