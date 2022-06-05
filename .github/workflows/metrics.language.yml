@@ -1,7 +1,7 @@
 name: Most Used Languages Metrics
 on:
   schedule:
-    - cron: "0 0 * * *" # every day
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
   push:
     paths:
