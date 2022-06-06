@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://planxnx.dev"><img width=465px align="center" src="/metrics/main.svg" alt="Planxnx"></a>
-  <a href="https://planxnx.dev"><img width=345px align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/output/generated/languages.svg' alt="Planxnx" />
+  <a href="https://planxnx.dev"><img width=345px align="right" src='https://raw.githubusercontent.com/Planxnx/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
 </a>
 </div>
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
