@@ -144,14 +144,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.11mb of code in 197 edited files across 139 commits over last 30 days</small>
+                <small>estimation from 1.10mb of code in 195 edited files across 135 commits over last 30 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.540568881898" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.540568881898" y="0" width="0.45943111810197923" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.53105899055583" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.53105899055583" y="0" width="0.46894100944419087" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -163,7 +163,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>12.2k lines</div>
+                                <div>12k lines</div>
                                 <div>99.9%</div>
                             </small>
                         </div>
@@ -177,7 +177,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>29 lines</div>
+                                <div>28 lines</div>
                                 <div>0.1%</div>
                             </small>
                         </div>
