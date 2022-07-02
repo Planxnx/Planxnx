@@ -43,7 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 01 July 2022
+From: 02 June 2022 - To: 02 July 2022
 
 Go                                 ████████████████████▓░░░░   82.86 %
 Solidity                           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
