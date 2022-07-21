@@ -23,7 +23,7 @@ jobs:
           plugin_languages_other: no
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, lines, bytes-size
-          plugin_languages_ignored: php
+          # plugin_languages_ignored: php
           plugin_languages_categories: programming
       - name: Most Used Markup Metrics
         uses: lowlighter/metrics@latest
