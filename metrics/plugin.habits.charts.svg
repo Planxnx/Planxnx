@@ -138,14 +138,14 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M105.568,5.039A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9277088434244927"/>
+                                        <path d="M105.563,5.04A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.9275766016713092"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M108,5A75,75,0,0,0,105.306,5.048L108,80Z" class="ct-slice-pie" ct:value="0.004813877246130224"/>
+                                        <path d="M108,5A75,75,0,0,0,105.301,5.049L108,80Z" class="ct-slice-pie" ct:value="0.004822683241175737"/>
                                     </g>
                                     <g>
-                                        <text dx="108.6081317701429" dy="117.49506868576377" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="107.39186822985712" dy="42.50493131423623" text-anchor="middle" class="ct-label">Dockerfile</text>
+                                        <text dx="108.60932477166288" dy="117.49504931751174" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="107.39067522833712" dy="42.50495068248826" text-anchor="middle" class="ct-label">Dockerfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
