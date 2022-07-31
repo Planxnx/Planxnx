@@ -150,9 +150,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.7464363575382" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.7464363575382" y="0" width="1.1185644809659567" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.86500083850416" y="0" width="0.13499916149589133" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.74753906086374" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.74753906086374" y="0" width="1.1175805303062036" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.86511959116996" y="0" width="0.13488040883005906" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -164,7 +164,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.61k lines</div>
+                                <div>1.60k lines</div>
                                 <div>99.73%</div>
                             </small>
                         </div>
