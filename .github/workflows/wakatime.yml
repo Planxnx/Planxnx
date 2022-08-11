@@ -20,4 +20,4 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: false
           SHOW_TIME: false
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
