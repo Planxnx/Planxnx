@@ -1,11 +1,11 @@
 name: Wakatime Metrics
 on:
-  schedule:
-    - cron: "0 * * * *" # every hour
+#   schedule:
+#     - cron: "0 * * * *" # every hour
   workflow_dispatch:
-  push:
-    paths:
-      - ".github/workflows/metrics.wakatime.yml"
+#   push:
+#     paths:
+#       - ".github/workflows/metrics.wakatime.yml"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
