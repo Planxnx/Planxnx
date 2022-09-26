@@ -138,30 +138,30 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M114.688,5.299A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.008657002188183808"/>
+                                        <path d="M114.684,5.298A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.00865427997210943"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M133.764,9.564A75,75,0,0,0,114.427,5.276L108,80Z" class="ct-slice-pie" ct:value="0.025341903719912472"/>
+                                        <path d="M133.751,9.559A75,75,0,0,0,114.423,5.276L108,80Z" class="ct-slice-pie" ct:value="0.02533393489465841"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M134.077,9.679A75,75,0,0,0,133.518,9.475L108,80Z" class="ct-slice-pie" ct:value="0.00043079868708971556"/>
+                                        <path d="M134.064,9.674A75,75,0,0,0,133.505,9.47L108,80Z" class="ct-slice-pie" ct:value="0.0004306632213608958"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M143.364,13.861A75,75,0,0,0,133.831,9.589L108,80Z" class="ct-slice-pie" ct:value="0.013176969365426696"/>
+                                        <path d="M143.347,13.852A75,75,0,0,0,133.818,9.584L108,80Z" class="ct-slice-pie" ct:value="0.013172825834324543"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M82.042,9.635A75,75,0,1,0,143.133,13.738L108,80Z" class="ct-slice-pie" ct:value="0.5273249452954049"/>
+                                        <path d="M82.055,9.63A75,75,0,1,0,143.116,13.729L108,80Z" class="ct-slice-pie" ct:value="0.5274735791531657"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M108,5A75,75,0,0,0,81.797,9.726L108,80Z" class="ct-slice-pie" ct:value="0.03426559080962801"/>
+                                        <path d="M108,5A75,75,0,0,0,81.81,9.721L108,80Z" class="ct-slice-pie" ct:value="0.03425481590856268"/>
                                     </g>
                                     <g>
-                                        <text dx="109.67358005066548" dy="42.537363549611" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="116.18265578362771" dy="43.40363208832515" text-anchor="middle" class="ct-label">TypeScript</text>
-                                        <text dx="120.96014215198477" dy="44.81073010987089" text-anchor="middle" class="ct-label">TSX</text>
-                                        <text dx="123.3956050228717" dy="45.80606273065754" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="105.42206678413677" dy="117.4112852002514" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="101.40797308599689" dy="43.08394412772325" text-anchor="middle" class="ct-label">Dockerfile</text>
+                                        <text dx="109.67271693774406" dy="42.537325001460665" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="116.17850123145048" dy="43.40270341121953" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="120.95373353864963" dy="44.8083704922653" text-anchor="middle" class="ct-label">TSX</text>
+                                        <text dx="123.38813918658042" dy="45.80270226502643" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="105.42339508293556" dy="117.41137670684358" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="101.41133958572881" dy="43.083343136933216" text-anchor="middle" class="ct-label">Dockerfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
