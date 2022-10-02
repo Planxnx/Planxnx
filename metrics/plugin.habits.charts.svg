@@ -139,18 +139,18 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M76.955,11.727A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.5682097848686722"/>
+                                        <path d="M76.336,12.012A75,75,0,1,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.5662794959262496"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M103.389,5.142A75,75,0,0,0,76.717,11.836L108,80Z" class="ct-slice-pie" ct:value="0.03543797117438226"/>
+                                        <path d="M102.666,5.19A75,75,0,0,0,76.099,12.123L108,80Z" class="ct-slice-pie" ct:value="0.03531758337797074"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M108,5A75,75,0,0,0,103.128,5.158L108,80Z" class="ct-slice-pie" ct:value="0.005968798178243589"/>
+                                        <path d="M108,5A75,75,0,0,0,102.405,5.209L108,80Z" class="ct-slice-pie" ct:value="0.006892954808153139"/>
                                     </g>
                                     <g>
-                                        <text dx="115.94136048030352" dy="116.64948558604709" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="98.935252061598" dy="43.61208518184593" text-anchor="middle" class="ct-label">Dockerfile</text>
-                                        <text dx="106.84669866101133" dy="42.51773891530172" text-anchor="middle" class="ct-label">TypeScript</text>
+                                        <text dx="116.1078443735109" dy="116.61301489381785" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="98.59458564738436" dy="43.69864767180688" text-anchor="middle" class="ct-label">Dockerfile</text>
+                                        <text dx="106.66573705200359" dy="42.52374428540647" text-anchor="middle" class="ct-label">TypeScript</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
