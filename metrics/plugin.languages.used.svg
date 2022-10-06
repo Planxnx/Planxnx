@@ -150,12 +150,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="370.45694829466464" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="370.45694829466464" y="0" width="64.07748724224336" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="434.534435536908" y="0" width="19.200652664352372" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="453.7350882012604" y="0" width="4.821224911132756" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.5563131123931" y="0" width="1.0147931703337412" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.5711062827269" y="0" width="0.4288937172731284" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="370.3951560971122" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="370.3951560971122" y="0" width="63.98752226673246" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="434.38267836384466" y="0" width="19.29281694027916" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="453.6754953041238" y="0" width="4.8741772808242665" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.5496725849481" y="0" width="1.0194609150895269" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.56913350003765" y="0" width="0.4308664999623661" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -167,8 +167,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>1.85k lines</div>
-                                <div>80.53%</div>
+                                <div>1.84k lines</div>
+                                <div>80.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -179,8 +179,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>123 lines</div>
-                                <div>4.17%</div>
+                                <div>122 lines</div>
+                                <div>4.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -205,8 +205,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>421 lines</div>
-                                <div>13.93%</div>
+                                <div>517 lines</div>
+                                <div>13.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -217,8 +217,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>47 lines</div>
-                                <div>1.05%</div>
+                                <div>46 lines</div>
+                                <div>1.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
