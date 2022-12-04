@@ -27,7 +27,7 @@
                     <rect mask="url(#languages-bar)" x="422.04807938431554" y="0" width="19.456271811475403" height="8" fill="#AA6746"/>
                     <rect mask="url(#languages-bar)" x="441.50435119579095" y="0" width="8.03443904187639" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="449.53879023766734" y="0" width="5.1243312335120725" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.6631214711794" y="0" width="3.113074086802478" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="454.6631214711794" y="0" width="3.113074086802478" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="457.77619555798185" y="0" width="1.5874232162070465" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="459.3636187741889" y="0" width="0.636381225811084" height="8" fill="#89e051"/>
                 </svg>
@@ -110,7 +110,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TSX
                             </div>
