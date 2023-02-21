@@ -41,11 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
-Go                      ████████████████████████▒   97.50 %
-YAML                    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Other                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
