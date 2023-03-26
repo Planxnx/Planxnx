@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.46 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="20.976666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -44,7 +44,7 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 1198 repositories</div>
+                                <div class="text">Starred 1203 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -89,7 +89,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.12731006160164116 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.1697467488021882 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -206,43 +206,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g xmlns="http://www.w3.org/2000/svg" fill="none" fill-rule="evenodd">
-                                            <path d="M24 32c.267-1.727 1.973-3 4-3 2.08 0 3.787 1.318 4 3m-4-9a3 3 0 110 6 3 3 0 010-6z" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M28 18c5.523 0 10 4.477 10 10s-4.477 10-10 10-10-4.477-10-10 4.477-10 10-10z" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M46.138 15c-1.033 0-1.454.822-1.634 1.413-.019.06-.024.06-.042 0-.182-.591-.707-1.413-1.655-1.413C41.347 15 41 16.117 41 17.005c0 1.676 2.223 3.228 3.091 3.845.272.197.556.194.817 0 .798-.593 3.092-2.17 3.092-3.845 0-.888-.261-2.005-1.862-2.005zm-31-5c-1.033 0-1.454.822-1.634 1.413-.019.06-.024.06-.042 0-.182-.591-.707-1.413-1.655-1.413C10.347 10 10 11.117 10 12.005c0 1.676 2.223 3.228 3.091 3.845.272.197.556.194.817 0 .798-.593 3.092-2.17 3.092-3.845 0-.888-.261-2.005-1.862-2.005zm6 32c-1.033 0-1.454.822-1.634 1.413-.019.06-.024.06-.042 0-.182-.591-.707-1.413-1.655-1.413C16.347 42 16 43.117 16 44.005c0 1.676 2.223 3.228 3.091 3.845.272.197.556.194.817 0 .798-.593 3.092-2.17 3.092-3.845 0-.888-.261-2.005-1.862-2.005z" fill="#79B8FF"/>
-                                            <path d="M8.003 29a3 3 0 110 6 3 3 0 010-6zM32.018 5.005a3 3 0 110 6 3 3 0 010-6z" stroke="#79B8FF" stroke-width="2" stroke-linecap="round"/>
-                                            <path stroke="#79B8FF" stroke-width="2" d="M29.972 18.026L31.361 11M18.063 29.987l-7.004 1.401"/>
-                                            <path d="M22.604 11.886l.746 2.164m-9.313 9.296l-2.156-.712" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M21.304 9a1 1 0 100-2 1 1 0 000 2zM8.076 22.346a1 1 0 100-2 1 1 0 000 2z" fill="#2088FF"/>
-                                            <path d="M33.267 44.17l-.722-2.146m9.38-9.206l2.147.743" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M34.544 49.031a1 1 0 100-2 1 1 0 000 2zm13.314-13.032a1 1 0 100-2 1 1 0 000 2z" fill="#2088FF"/>
-                                            <path d="M48.019 51.004a3 3 0 100-6 3 3 0 000 6zM35.194 35.33l10.812 11.019" stroke="#79B8FF" stroke-width="2"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Sponsor
-                                </div>
-                                <div class="text">Sponsoring 2 users or organizations</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="73.99497487437186 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="76.33165829145729 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -264,7 +228,7 @@
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 96 times</div>
+                                <div class="text">Repositories have been deployed 99 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -349,7 +313,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.97m out of 387m repositories</span>
+                                    <span class="gh">ranked 1.97m out of 388m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -420,9 +384,45 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.66m out of 387m repositories</span>
+                                    <span class="gh">ranked 2.66m out of 388m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g xmlns="http://www.w3.org/2000/svg" fill="none" fill-rule="evenodd">
+                                            <path d="M24 32c.267-1.727 1.973-3 4-3 2.08 0 3.787 1.318 4 3m-4-9a3 3 0 110 6 3 3 0 010-6z" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M28 18c5.523 0 10 4.477 10 10s-4.477 10-10 10-10-4.477-10-10 4.477-10 10-10z" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M46.138 15c-1.033 0-1.454.822-1.634 1.413-.019.06-.024.06-.042 0-.182-.591-.707-1.413-1.655-1.413C41.347 15 41 16.117 41 17.005c0 1.676 2.223 3.228 3.091 3.845.272.197.556.194.817 0 .798-.593 3.092-2.17 3.092-3.845 0-.888-.261-2.005-1.862-2.005zm-31-5c-1.033 0-1.454.822-1.634 1.413-.019.06-.024.06-.042 0-.182-.591-.707-1.413-1.655-1.413C10.347 10 10 11.117 10 12.005c0 1.676 2.223 3.228 3.091 3.845.272.197.556.194.817 0 .798-.593 3.092-2.17 3.092-3.845 0-.888-.261-2.005-1.862-2.005zm6 32c-1.033 0-1.454.822-1.634 1.413-.019.06-.024.06-.042 0-.182-.591-.707-1.413-1.655-1.413C16.347 42 16 43.117 16 44.005c0 1.676 2.223 3.228 3.091 3.845.272.197.556.194.817 0 .798-.593 3.092-2.17 3.092-3.845 0-.888-.261-2.005-1.862-2.005z" fill="#79B8FF"/>
+                                            <path d="M8.003 29a3 3 0 110 6 3 3 0 010-6zM32.018 5.005a3 3 0 110 6 3 3 0 010-6z" stroke="#79B8FF" stroke-width="2" stroke-linecap="round"/>
+                                            <path stroke="#79B8FF" stroke-width="2" d="M29.972 18.026L31.361 11M18.063 29.987l-7.004 1.401"/>
+                                            <path d="M22.604 11.886l.746 2.164m-9.313 9.296l-2.156-.712" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M21.304 9a1 1 0 100-2 1 1 0 000 2zM8.076 22.346a1 1 0 100-2 1 1 0 000 2z" fill="#2088FF"/>
+                                            <path d="M33.267 44.17l-.722-2.146m9.38-9.206l2.147.743" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M34.544 49.031a1 1 0 100-2 1 1 0 000 2zm13.314-13.032a1 1 0 100-2 1 1 0 000 2z" fill="#2088FF"/>
+                                            <path d="M48.019 51.004a3 3 0 100-6 3 3 0 000 6zM35.194 35.33l10.812 11.019" stroke="#79B8FF" stroke-width="2"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Sponsor
+                                </div>
+                                <div class="text">Sponsoring 1 user or organization</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
