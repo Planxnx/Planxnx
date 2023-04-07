@@ -15,27 +15,6 @@
 - 🤔 I’m looking for help in learning about blockchain development and project management.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 
-<a href="https://planxnx.dev"><img align="right" src="/metrics/plugin.habits.facts.svg" alt="Planxnx Habits"></a>
-
-
-#### Knowledges 💻
-
-![](https://img.shields.io/badge/-Golang-000000?style=flat-square&logo=go)
-![](https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/-Typescript-000000?style=flat-square&logo=typescript)
-
-![](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js)
-![](https://img.shields.io/badge/-Postgresql-000000?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis)
-![](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
-
-![](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat-square&logo=google-cloud)
-![](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase)
-![](https://img.shields.io/badge/-Ethereum-000000?style=flat-square&logo=Ethereum)
-
-![](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
-![](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
-
 #### Recently I'm coding in...
 
 <!--START_SECTION:waka-->
