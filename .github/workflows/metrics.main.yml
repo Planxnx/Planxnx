@@ -26,7 +26,6 @@ jobs:
 
       - name: Commit Output
         run: |
-          git checkout master
           git config user.name Planxnx
           git config user.email planxthanee@gmail.com
           sudo mv /metrics_renders/* ./
