@@ -17,7 +17,7 @@ env:
   COMMIT_EMAIL: planxthanee@gmail.com
   COMMIT_USER: Planxnx
   COMMIT_MESSAGE: ${{ github.event.inputs.commit_message }}
-  GIT_USER: ${{ github.event.inputs.git_user || "Planxnx" }}
+  GIT_USER: ${{ github.event.inputs.git_user || 'Planxnx' }}
 
 jobs:
   github-metrics:
