@@ -5,12 +5,16 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - ".github/workflows/metrics.yml"
+      - ".github/workflows/metrics.main.yml"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - run: |
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git user
+        run: |
           git config user.name Planxnx
           git config user.email planxthanee@gmail.com
 
