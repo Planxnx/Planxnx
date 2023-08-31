@@ -1,4 +1,4 @@
-name: Metrics Achivements
+name: Metrics Star Lists
 on:
   schedule:
     - cron: "0 0 * * *" # every day
