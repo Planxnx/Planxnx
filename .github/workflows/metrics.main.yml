@@ -1,0 +1,21 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/metrics.yml"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Main Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics/main.svg
+          config_timezone: Asia/Bangkok
+          user: Planxnx
+          template: classic
+          base: header, activity, repositories
