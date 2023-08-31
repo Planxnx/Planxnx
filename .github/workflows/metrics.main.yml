@@ -7,12 +7,15 @@ on:
       commit_message:
         description: "Commit message"
         default: "chore: update metrics"
+      git_user:
+        description: "Git user"
+        default: ${{ github.actor }}
   push:
     paths:
       - ".github/workflows/metrics.main.yml"
 env:
-  COMMIT_EMAIL: ${{ github.event.inputs.cf_api_token ||  "planxthanee@gmail.com" }}
-  COMMIT_USER: ${{ github.event.inputs.environment || "Planxnx" }}
+  COMMIT_EMAIL: planxthanee@gmail.com
+  COMMIT_USER: Planxnx
   COMMIT_MESSAGE: ${{ github.event.inputs.commit_message }}
   GIT_USER: ${{ github.event.inputs.git_user || env.COMMIT_USER }}
 
