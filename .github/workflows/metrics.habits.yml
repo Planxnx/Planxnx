@@ -3,30 +3,53 @@ on:
   schedule:
     - cron: "0 0 * * *" # every day
   workflow_dispatch:
+    inputs:
+      commit_message:
+        description: "Commit message"
+        default: "chore: update metrics"
+      git_user:
+        description: "Git user"
+        default: "Planxnx"
   push:
     paths:
       - ".github/workflows/metrics.habits.yml"
+env:
+  COMMIT_EMAIL: planxthanee@gmail.com
+  COMMIT_USER: Planxnx
+  COMMIT_MESSAGE: ${{ github.event.inputs.commit_message }}
+  GIT_USER: ${{ github.event.inputs.git_user || 'Planxnx' }}
+
 jobs:
-  github-metrics:
+  build-metrics:
     runs-on: ubuntu-latest
+    env:
+      METRICS_DIR: "metrics"
+
     steps:
-      - name: Interesting Facts Metrics
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Interesting Facts Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/plugin.habits.facts.svg
+          filename: plugin.habits.facts.svg
           config_timezone: Asia/Bangkok
+          user: ${{ env.GIT_USER }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_habits_from: 1000
-      - name: Activity Facts Metrics
+          output_action: none
+
+      - name: Generate Activity Facts Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/plugin.habits.charts.svg
+          filename: plugin.habits.charts.svg
           config_timezone: Asia/Bangkok
+          user: ${{ env.GIT_USER }}
           base: ""
           plugin_habits: yes
           plugin_habits_from: 1000
@@ -34,3 +57,14 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
           plugin_habits_trim: yes
+          output_action: none
+
+      - name: Commit Output
+        run: |
+          set +e
+          git config user.name ${{ env.COMMIT_USER }}
+          git config user.email ${{ env.COMMIT_EMAIL }}
+          sudo mv /metrics_renders/* /${{ env.METRICS_DIR }}
+          git add --all
+          git commit -m "${{ env.COMMIT_MESSAGE }}"
+          git push

@@ -27,12 +27,15 @@ jobs:
       METRICS_FILE_NAME: "plugin.achivements.svg"
 
     steps:
-      - name: Achivements Metrics
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Metrics
         uses: lowlighter/metrics@master # use @master to test new features, See more: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md#3%EF%B8%8F1%EF%B8%8F-choosing-between-latest-mastermain-a-fork-or-a-pinned-version
         with:
           token: ${{ secrets.GH_TOKEN }}
-          committer_token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/plugin.achivements.svg
+          # committer_token: ${{ secrets.GH_TOKEN }}
+          filename: ${{ env.METRICS_FILE_NAME }}
           config_timezone: Asia/Bangkok
           user: ${{ env.GIT_USER }}
           base: ""
@@ -41,3 +44,14 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: B
           # plugin_achievements_ignored: forker, follower, influencer, gister, worker, explorer, infographile
+          output_action: none
+
+      - name: Commit Output
+        run: |
+          set +e
+          git config user.name ${{ env.COMMIT_USER }}
+          git config user.email ${{ env.COMMIT_EMAIL }}
+          sudo mv /metrics_renders/* /${{ env.METRICS_DIR }}
+          git add --all
+          git commit -m "${{ env.COMMIT_MESSAGE }}"
+          git push
