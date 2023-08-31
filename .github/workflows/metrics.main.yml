@@ -10,6 +10,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - run: |
+          git config user.name Planxnx
+          git config user.email planxthanee@gmail.com
+
       - name: Main Metrics
         uses: lowlighter/metrics@latest
         with:
