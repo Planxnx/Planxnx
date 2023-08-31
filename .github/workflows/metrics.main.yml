@@ -13,11 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Configure Git user
-        run: |
-          git config user.name Planxnx
-          git config user.email planxthanee@gmail.com
-
       - name: Main Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -27,3 +22,14 @@ jobs:
           user: Planxnx
           template: classic
           base: header, activity, repositories
+          output_action: none
+
+      - name: Commit Output
+        run: |
+          git checkout metrics-renders
+          git config user.name Planxnx
+          git config user.email planxthanee@gmail.com
+          sudo mv /metrics_renders/* ./
+          git add --all
+          git commit -m "chore: push metrics"
+          git push
