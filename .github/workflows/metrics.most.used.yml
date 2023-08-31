@@ -14,7 +14,7 @@ env:
   COMMIT_MESSAGE: ${{ github.event.inputs.commit_message }}
 
 jobs:
-  github-metrics:
+  build-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
