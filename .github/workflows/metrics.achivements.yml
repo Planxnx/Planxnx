@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Achivements Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master # use @master to test new features, See more: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md#3%EF%B8%8F1%EF%B8%8F-choosing-between-latest-mastermain-a-fork-or-a-pinned-version
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: metrics/plugin.achivements.svg
