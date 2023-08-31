@@ -1,13 +1,25 @@
 name: Metrics Most Used
 on:
   workflow_dispatch:
+    inputs:
+      commit_message:
+        description: "Commit message"
+        default: "chore: update metrics"
   push:
     paths:
       - ".github/workflows/metrics.most.used.yml"
+env:
+  COMMIT_EMAIL: planxthanee@gmail.com
+  COMMIT_USER: Planxnx
+  COMMIT_MESSAGE: ${{ github.event.inputs.commit_message }}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Most Used Programing Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -25,6 +37,8 @@ jobs:
           plugin_languages_details: percentage, lines, bytes-size
           # plugin_languages_ignored: php
           plugin_languages_categories: programming
+          output_action: none
+
       - name: Most Used Markup Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -41,6 +55,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_categories: markup
+          output_action: none
+
       - name: Most Used Data Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -57,6 +73,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_categories: data
+          output_action: none
+
       - name: Most Used Prose Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -73,3 +91,14 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_categories: prose
+          output_action: none
+
+      - name: Commit Output
+        run: |
+          set +e
+          git config user.name ${{ env.COMMIT_USER }}
+          git config user.email ${{ env.COMMIT_EMAIL }}
+          sudo mv /metrics_renders/* ./
+          git add --all
+          git commit -m "${{ env.COMMIT_MESSAGE }}"
+          git push
