@@ -3,32 +3,46 @@ on:
   schedule:
     - cron: "0 0 * * *" # every day
   workflow_dispatch:
+    inputs:
+      commit_message:
+        description: "Commit message"
+        default: "chore: update metrics"
   push:
     paths:
       - ".github/workflows/metrics.main.yml"
+env:
+  COMMIT_EMAIL: ${{ github.event.inputs.cf_api_token ||  "planxthanee@gmail.com" }}
+  COMMIT_USER: ${{ github.event.inputs.environment || "Planxnx" }}
+  COMMIT_MESSAGE: ${{ github.event.inputs.commit_message }}
+  GIT_USER: ${{ github.event.inputs.git_user || env.COMMIT_USER }}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    env:
+      METRICS_DIR: "metrics"
+      METRICS_FILE_NAME: "main.svg"
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Main Metrics
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/main.svg
+          filename: ${{ env.METRICS_FILE_NAME }}
           config_timezone: Asia/Bangkok
-          user: Planxnx
+          user: ${{ env.GIT_USER }}
           template: classic
           base: header, activity, repositories
           output_action: none
 
       - name: Commit Output
         run: |
-          git config user.name Planxnx
-          git config user.email planxthanee@gmail.com
-          sudo mv /metrics_renders/* ./metrics
+          git config user.name ${{ env.COMMIT_USER }}
+          git config user.email ${{ env.COMMIT_EMAIL }}
+          sudo mv /metrics_renders/* /${{ env.METRICS_DIR }}
           git add --all
-          git commit -m "chore: push metrics"
+          git commit -m "${{ env.COMMIT_MESSAGE }}"
           git push
