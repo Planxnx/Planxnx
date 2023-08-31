@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, activity, repositories
       - name: Achivements Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
           filename: metrics/plugin.achivements.svg
