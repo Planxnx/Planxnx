@@ -93,12 +93,14 @@ jobs:
           plugin_languages_categories: prose
           output_action: none
 
+        # use copy instead of move to prevent error `mv: cannot move '/metrics_renders/metrics' to './metrics': Directory not empty`
       - name: Commit Output
         run: |
           set +e
           git config user.name ${{ env.COMMIT_USER }}
           git config user.email ${{ env.COMMIT_EMAIL }}
-          sudo mv /metrics_renders/* ./
+          cp -R metrics_renders/* ./
+          rm -R metrics_renders/
           git add --all
           git commit -m "${{ env.COMMIT_MESSAGE }}"
           git push
