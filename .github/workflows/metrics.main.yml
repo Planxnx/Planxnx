@@ -43,6 +43,7 @@ jobs:
 
       - name: Commit Output
         run: |
+          set +e
           git config user.name ${{ env.COMMIT_USER }}
           git config user.email ${{ env.COMMIT_EMAIL }}
           sudo mv /metrics_renders/* /${{ env.METRICS_DIR }}
