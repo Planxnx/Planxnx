@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - ".github/workflows/metrics.yml"
+      - ".github/workflows/metrics.habits.yml"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
