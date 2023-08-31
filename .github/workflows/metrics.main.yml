@@ -27,27 +27,27 @@ jobs:
       METRICS_FILE_NAME: "main.svg"
 
     steps:
-      # - name: Checkout repository
-      #   uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          committer_token: ${{ secrets.GH_TOKEN }}
+          # committer_token: ${{ secrets.GH_TOKEN }} # use `planxnx@users.noreply.github.com`
           filename: ${{ env.METRICS_FILE_NAME }}
           config_timezone: Asia/Bangkok
           user: ${{ env.GIT_USER }}
           template: classic
           base: header, activity, repositories
-          # output_action: none
+          output_action: none
 
-      # - name: Commit Output
-      #   run: |
-      #     set +e
-      #     git config user.name ${{ env.COMMIT_USER }}
-      #     git config user.email ${{ env.COMMIT_EMAIL }}
-      #     sudo mv /metrics_renders/* /${{ env.METRICS_DIR }}
-      #     git add --all
-      #     git commit -m "${{ env.COMMIT_MESSAGE }}"
-      #     git push
+      - name: Commit Output
+        run: |
+          set +e
+          git config user.name ${{ env.COMMIT_USER }}
+          git config user.email ${{ env.COMMIT_EMAIL }}
+          sudo mv /metrics_renders/* /${{ env.METRICS_DIR }}
+          git add --all
+          git commit -m "${{ env.COMMIT_MESSAGE }}"
+          git push
