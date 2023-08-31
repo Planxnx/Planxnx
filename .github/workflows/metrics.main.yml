@@ -20,7 +20,7 @@ env:
   GIT_USER: ${{ github.event.inputs.git_user || 'Planxnx' }}
 
 jobs:
-  github-metrics:
+  build-metrics:
     runs-on: ubuntu-latest
     env:
       METRICS_DIR: "metrics"
