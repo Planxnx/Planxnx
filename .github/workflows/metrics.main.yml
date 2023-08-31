@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name Planxnx
           git config user.email planxthanee@gmail.com
-          sudo mv /metrics_renders/* ./
+          sudo mv /metrics_renders/* ./metrics
           git add --all
           git commit -m "chore: push metrics"
           git push
