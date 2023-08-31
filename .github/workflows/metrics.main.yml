@@ -9,7 +9,7 @@ on:
         default: "chore: update metrics"
       git_user:
         description: "Git user"
-        default: ${{ github.actor }}
+        default: "Planxnx"
   push:
     paths:
       - ".github/workflows/metrics.main.yml"
