@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics Achivements
 on:
   schedule:
     - cron: "0 0 * * *" # every day

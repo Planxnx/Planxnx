@@ -1,4 +1,4 @@
-name: Most Used Metrics
+name: Metrics Most Used
 on:
   workflow_dispatch:
   push:
