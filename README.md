@@ -9,7 +9,7 @@
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
 
 #### Talking about Personal Stuffs 🎯
-- 🧑🏻‍💻 I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/). , owner of [planxnx.dev](https://planxnx.dev/) and full-time self developer✌🏻
+- 🧑🏻‍💻 I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/). , owner of [planxnx.dev](https://planxnx.dev/), [planx.site](https://planx.site/) and full-time self developer✌🏻
 - 💻 I’m currently working on improving the developer experience and finding new technology opportunities.
 - 🌱 I’m currently learning about system design and blockchain.
 - 🤔 I’m looking for help in learning about blockchain development and project management.
