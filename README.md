@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Go                           ███████████████████████▒░   93.84 %
 Solidity                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
