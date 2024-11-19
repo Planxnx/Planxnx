@@ -20,12 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Go                           ███████████████████████▒░   93.84 %
-Solidity                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Git Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Solidity                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
