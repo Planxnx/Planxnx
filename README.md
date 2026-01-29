@@ -9,10 +9,9 @@
 <!--   <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Planxnx&layout=compact&hide=php' alt="Planxnx" /> -->
 
 #### Talking about Personal Stuffs 🎯
-- 🧑🏻‍💻 I'm Planxnx . I'm a software engineer @[Cleverse](https://cleverse.com/). , owner of [planxnx.dev](https://planxnx.dev/) and full-time self developer✌🏻
+- 🧑🏻‍💻 I'm Planxnx . I'm a senior software engineer @[Cleverse](https://cleverse.com/). , owner of [planxnx.dev](https://planxnx.dev/) and full-time self developer✌🏻
 - 💻 I’m currently working on improving the developer experience and finding new technology opportunities.
-- 🌱 I’m currently learning about system design and blockchain.
-- 🤔 I’m looking for help in learning about blockchain development and project management.
+- 🌱 I’m currently learning about system design, ai and blockchain.
 - ⚡ Fun fact: 0.1 + 0.2 is not equal to 0.3 !
 
 #### Recently I'm coding in...
